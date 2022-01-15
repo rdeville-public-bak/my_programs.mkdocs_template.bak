@@ -2,7 +2,7 @@
 
 docs/versions.json
 .vimrc.local
-.tmuxinator.yml
+.tmux*.y*ml
 .old/
 .tmp/
 
